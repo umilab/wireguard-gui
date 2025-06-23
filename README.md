@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Wireguard GUI</h1>
+  <h1>Welooguard GUI</h1>
   <h3>❤️ Made with love with Nextauri ❤️</h3>
 
 <p>
